@@ -1,0 +1,84 @@
+ 
+
+{
+  "ID": { "S": "2" },
+  "Nombre": { "S": "Ingeniería económica" },
+  "Categoria": { "S": "Obligatorio Complementario" },
+  "EstaAprobada": { "BOOL": false },
+  "CreadaEn": { "S": "2025-06-25T10:00:00Z" }
+}
+
+{
+  "ID": { "S": "3" },
+  "Nombre": { "S": "Cáculo Integral" },
+  "Categoria": { "S": "Obligatorio Básico" },
+  "EstaAprobada": { "BOOL": true },
+  "AprobadaEn": { "S": "2023-06-15T17:00:00Z" },
+  "CreadaEn": { "S": "2023-02-02T10:00:00Z" }
+}
+
+
+{
+  "ID": { "S": "4" },
+  "Nombre": { "S": "Humanidades" },
+  "Categoria": { "S": "Electivo Extrínseco" },
+  "EstaAprobada": { "BOOL": true },
+  "AprobadaEn": { "S": "2025-07-15T17:00:00Z" },
+  "CreadaEn": { "S": "2025-03-10T10:00:00Z" }
+}
+
+{
+  "ID": { "S": "5" },
+  "Nombre": { "S": "Investigación de operaciones 1" },
+  "Categoria": { "S": "Obligatorio Complementario" },
+  "EstaAprobada": { "BOOL": false },
+  "CreadaEn": { "S": "2024-06-25T10:00:00Z" }
+}
+
+
+{
+  "ID": { "S": "6" },
+  "Nombre": { "S": "Sistemas operativos" },
+  "Categoria": { "S": "Obligatorio Básico" },
+  "EstaAprobada": { "BOOL": false },
+  "CreadaEn": { "S": "2025-06-25T10:00:00Z" }
+}
+
+
+{
+  "ID": { "S": "7" },
+  "Nombre": { "S": "Administración de empresas" },
+  "Categoria": { "S": "Electiva Extrínseca" },
+  "EstaAprobada": { "BOOL": true },
+  "AprobadaEn": { "S": "2025-07-15T17:00:00Z" },
+  "CreadaEn": { "S": "2025-03-10T10:00:00Z" }
+}
+
+
+{
+  "ID": { "S": "8" },
+  "Nombre": { "S": "Ética y bioética" },
+  "Categoria": { "S": "Obligatorio básico" },
+  "EstaAprobada": { "BOOL": true },
+  "AprobadaEn": { "S": "2023-06-15T17:00:00Z" },
+  "CreadaEn": { "S": "2023-02-02T10:00:00Z" }
+}
+
+
+
+{
+  "ID": { "S": "9" },
+  "Nombre": { "S": "Grupo de investigación" },
+  "Categoria": { "S": "Electiva intrínseca" },
+  "EstaAprobada": { "BOOL": false },
+  "CreadaEn": { "S": "2025-06-25T10:00:00Z" }
+}
+
+{
+  "ID": { "S": "10" },
+  "Nombre": { "S": "Ciencias de la computación 1" },
+  "Categoria": { "S": "Obligatorio Básico" },
+  "EstaAprobada": { "BOOL": true },
+  "AprobadaEn": { "S": "2022-12-15T17:00:00Z" },
+  "CreadaEn": { "S": "2022-06-25T10:00:00Z" }
+}
